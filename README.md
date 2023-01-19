@@ -25,6 +25,9 @@ I then conducted a brief analysis on Python, followed by a more in depth analysi
 You can look at the file 'prem_debut_analysis.py' for some preliminary analysis and visualizations. I want to do a lot more there! Please contact me if you would like the dataset I used in that script. That dataset is the final dataset wherein I confirmed the debutants using ENFA.
 
 File Dictionary:
+
 bf = raw data from Transfermarkt debutant list
+
 club_data = raw data on club careers of players on Transfermarkt debutant list
+
 ntl_data = raw data on int'l careers of players on Transfermarkt debutant list
