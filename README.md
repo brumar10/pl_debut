@@ -1,6 +1,9 @@
 # pl_debut
 
-A project using Transfermarkt and the ENFA to investigate data on professional league debuts made in the Premier League.
+A working project using Transfermarkt and the ENFA to investigate data on professional league debuts made in the Premier League.
+
+Please contact me before you use my code or data.
+
 I first scraped data from Transfermarkt using their league debutant information https://www.transfermarkt.us/premier-league/profidebuetanten/wettbewerb/GB1.
 I set the parameters on Transfermarkt to show me all players that made their professional debut between 92/92 and 22/23.
 For the headers in my code, I used the same ones as this FC Python article https://fcpython.com/blog/introduction-scraping-data-transfermarkt.
@@ -18,3 +21,5 @@ I then created a final Excel file with all the players who I had confirmed made 
 
 My final data set for analysis was comprised only of these specific players. Player who made their professional league debut in the Premier League. Even if they played a cup match or continental match before their professional league debut, I included them because those were not league matches.
 I then conducted a brief analysis on Python, followed by a more in depth analysis on Tableau.
+
+You can look at the file 'prem_debut_analysis.py' for some preliminary analysis and visualizations. I want to do a lot more there!
